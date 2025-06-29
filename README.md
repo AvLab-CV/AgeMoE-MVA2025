@@ -14,13 +14,13 @@
 
 # Credits
 Janus Pro (Vision-Language Model)
-Code Repository: https://github.com/Alpha-VLLM/Janus
+Code Repository: [https://github.com/Alpha-VLLM/Janus](https://github.com/deepseek-ai/Janus?tab=readme-ov-file)
 Code License: MIT License
 Model Weights License: DeepSeek Model License
 Copyright © 2023 Alpha-VLLM
 Note: Janus Pro weights are subject to usage restrictions under the DeepSeek Model License. Please review the license terms before use in commercial or derivative works.
 
 MiVOLO (Transformer-based Age Estimator)
-Repository: https://github.com/youngwanLEE/MiVOLO
+Repository: [https://github.com/youngwanLEE/MiVOLO](https://github.com/WildChlamydia/MiVOLO)
 License: MIT License
 Copyright © 2022 Youngwan Lee
