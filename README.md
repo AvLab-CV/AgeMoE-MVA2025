@@ -6,7 +6,7 @@
 ![Janus Pro (VLM)](https://img.shields.io/badge/Janus_Pro-pretrained-blue.svg?style=plastic)
 ![MiVOLO](https://img.shields.io/badge/MiVOLO-pretrained-blue.svg?style=plastic)
 
-
+![image](https://github.com/AvLab-CV/AgeMoE-MVA2025/blob/d6204caf9540dec4f10629d4d1c38d49c915c3e9/Figure3.jpg)
 
 
 **Abstract:** Age estimation models are widely used in applications such as cross-age recognition, facial age transformation, and content screening. However, the evaluation of existing models still relies on outdated baselines such as DEX and Face++, which are often inaccurate and unstable—particularly for younger age groups—thus limiting their practical applicability. In addition, current benchmarks mainly emphasize overall mean absolute error (MAE), while overlooking prediction stability and fairness across age groups. To address these limitations, we propose a lightweight Mixture of Experts (MoE) framework that dynamically combines vision-language models (VLMs), such as Janus Pro, with structure-oriented visual experts, including CNN-based (e.g., VGG16, ResNet50) and Transformer-based models (e.g., MiVOLO). Our framework improves age prediction stability through expert-specific bias correction and supports plug-and-play integration without retraining, enabling efficient fusion at minimal cost. Experiments on the AgeDB and Cross-Age Face (CAF) datasets demonstrate superior performance compared to state-of-the-art models, validating the effectiveness of our framework in age estimation and its potential for broader multi-modal applications.
